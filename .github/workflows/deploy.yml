@@ -19,7 +19,7 @@ env:
   # GitHub Pages project site URL:
   # https://Saichandu02.github.io/Portfolio/
   # If you connect a custom domain, change this to '/'.
-  VITE_BASE_PATH: /Portfolio/
+  VITE_BASE_PATH: /
 
 jobs:
   build:
